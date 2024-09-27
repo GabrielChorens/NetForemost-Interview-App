@@ -1,0 +1,16 @@
+{
+  "@@locale": "es",
+
+  "app_name": "WheatherForemost",
+  "no_data": "Datos no encontrados",
+  "please_add_tracker": "Por favor, agregue una ciudad para rastrear su clima",
+  "add_city": "Agregar Ciudad",
+  "description": "Descripción",
+  "add_description": "Agregar una descripción",
+  "save_city": "Guardar Ciudad",
+  "unexpected_error": "Ocurrió un error inesperado",
+  "pending_implementation": "Estamos trabajando en esta función",
+  "lang": "Idioma",
+  "english": "Inglés",
+  "spanish": "Español"
+}

@@ -1,0 +1,9 @@
+arb-dir: lib/resources/l10n/arb
+template-arb-file: app_es.arb
+output-localization-file: app_localizations.dart
+untranslated-messages-file: missing_translations.txt
+fallback-locales:
+  - en
+preferred-supported-locales:
+  - es
+nullable-getter: false

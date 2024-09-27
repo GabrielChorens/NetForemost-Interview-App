@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+
+  "app_name": "WheatherForemost",
+  "no_data": "No data Found",
+  "please_add_tracker": "Please add a city to track it's weather",
+  "add_city": "Add City",
+  "description": "Description",
+  "add_description": "Add a description",
+  "save_city": "Save City",
+  "unexpected_error": "An unexpected error occurred",
+  "pending_implementation": "We are working on this feature",
+  "lang": "Language",
+  "english": "English",
+  "spanish": "Spanish"
+
+
+}
